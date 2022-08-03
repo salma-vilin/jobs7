@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#ffffff"
+    tools:context=".MainActivity">
+
+    <TextView />
+
+    <TextView
+        android:layout_width="144dp"
+        android:layout_height="36dp"
+        android:text="Rika rahma aulia" />
+
+    <TextView
+        android:layout_width="149dp"
+        android:layout_height="42dp"
+        android:text="NIS: 3025" />
+
+    <TextView
+        android:layout_width="156dp"
+        android:layout_height="36dp"
+        android:text="Salma nadia agustina" />
+
+    <TextView
+        android:layout_width="140dp"
+        android:layout_height="33dp"
+        android:text="NIS: 3028" />
+
+    <TextView
+        android:layout_width="163dp"
+        android:layout_height="45dp"
+        android:text="Salma vilindia putri"
+        android:background="#00ff00" />
+
+    <TextView
+        android:layout_width="139dp"
+        android:layout_height="37dp"
+        android:text="NIS: 3029"
+        android:background="#00ff00"
+        />
+
+    <TextView
+        android:layout_width="166dp"
+        android:layout_height="43dp"
+        android:text="Silvi widya maulani" />
+
+    <TextView
+        android:layout_width="149dp"
+        android:layout_height="40dp"
+        android:text="NIS: 3031" />
+
+    <TextView
+        android:layout_width="178dp"
+        android:layout_height="45dp"
+        android:text="Siti kotijah" />
+
+    <TextView
+        android:layout_width="154dp"
+        android:layout_height="36dp"
+        android:text="NIS: 3033" />
+
+</LinearLayout>
